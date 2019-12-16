@@ -1,0 +1,82 @@
+body{
+	padding: 30px 30px;
+}
+header{
+	margin-bottom: 30px;
+}
+.main-logo{
+	vertical-align: middle;
+}
+.main-logo img{
+	height: 22px;
+}
+.nav-bar{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 20px;
+}
+.nav-bar li{
+	display: inline-block;
+	margin: 0 10px 0;
+}
+.nav-bar li a{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+.title-h3{
+	font-size: 24px;
+	font-weight: bold;
+	padding-top: 120px;
+}
+.boxes{
+	margin:30px 0 0;
+}
+.box{
+	padding: 20px;
+	background: #F2F2F2;
+	display: inline-block;
+}
+.title-h4{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.main-wrapper{
+	margin: 10px 0 0;
+}
+.wrapper-image{
+	height: 125px;
+}
+.wrapper-text{
+	display: inline-block;
+	width: 350px;
+	vertical-align: top;
+	font-size: 20px;
+	font: roboto;
+}
+.logo{
+	display: inline-block;
+	height: 30px;
+	margin: 65px 60px 0 0;
+}
+.text-box{
+	display: inline-block;
+	width: 800px;
+	vertical-align: top;
+	margin:0 0 0 30px;
+}
+.contact-info{
+	display: inline-block;
+	padding: 30px 40px 0 30px;
+	vertical-align: top;
+}
+.map{
+	display: inline-block;
+	padding-top: 30px;
+}
+.cont{
+	margin: : 30px 0 90px 0;
+	background: #F2F2F2;
+}
